@@ -1,4 +1,4 @@
-## How to code a website, movie trailer 
+## Code a website, movie trailer practise.
 
-This week I turn a design created last week, to front-end html & css.
+In this week my front-end practise i turn a design created last week, to front-end html & css.
 
